@@ -39,7 +39,7 @@ const Navbar = () => {
             <Box fontWeight="fontWeightBold">
               <Typography variant="h4">
                 <Link to="/" className={classes.logo}>
-                  EREN
+                  Furniture Mart
                 </Link>
               </Typography>
             </Box>
